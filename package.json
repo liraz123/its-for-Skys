@@ -1,0 +1,15 @@
+{
+  "name": "tyang",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+      "node": "16.x"
+  },
+  "main": "src/index.js",
+  "author": "liraz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1630281876.29d5fd1",
+    "nodemon": "^2.0.12"
+  }
+}
